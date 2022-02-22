@@ -5,6 +5,6 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: 2 X 🥇 (Intermediate of Computer Science & BS Software Engineering)
 
-
+Email shafiqkhuidad@hotmail.com
 
 ![Shafiq's github stats](https://github-readme-stats.vercel.app/api?username=mshafiqmk&show_icons=true)
