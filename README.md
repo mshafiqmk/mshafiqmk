@@ -5,6 +5,8 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: 2 X 🥇 (Intermediate of Computer Science & BS Software Engineering)
 
-Email shafiqkhuidad@hotmail.com
+### Email shafiqkhuidad@hotmail.com
+
+Booking a session on codementor: [![Contact me on Codementor](https://www.codementor.io/m-badges/mshafiqmk/book-session.svg)](https://www.codementor.io/@mshafiqmk?refer=badge)
 
 ![Shafiq's github stats](https://github-readme-stats.vercel.app/api?username=mshafiqmk&show_icons=true)
