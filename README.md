@@ -2,7 +2,6 @@
 
 - 💬 Ask me about .NET, Angular, React , Angular , Azure and Azure DevOps
 - 📫 How to reach me: shafiqkhuidad@hotmail.com
-- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: 2 X 🥇 (Intermediate of Computer Science & BS Software Engineering)
 
 ### Email shafiqkhuidad@hotmail.com
